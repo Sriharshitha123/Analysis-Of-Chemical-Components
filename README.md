@@ -42,11 +42,7 @@ In the ever-expanding world of cosmetics, finding the right product for one's sk
 
 ## 📝 Acknowledgments
 
-A special thanks to the Training & Development Team at MedTourEasy for providing the opportunity and resources to carry out this project. Your guidance and support were invaluable! 🙏❤️
-
-## 📧 Contact
-
-For any queries or further information, please reach out to us at [your-email@example.com].
+A special thanks to the Training & Development Team at MedTourEasy for providing the opportunity and resources to carry out this project. Your guidance and support were invaluable! 🙏
 
 ---
 
